@@ -1,0 +1,55 @@
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\bin\Debug\Ma Di Tuan.pdb
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Properties.Resources.resources
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma Di Tuan.csproj.GenerateResource.Cache
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma Di Tuan.exe
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma Di Tuan.pdb
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Init.resources
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Main.resources
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.GroupHandle.resources
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe.config
+C:\Users\vankhai\Documents\Visual Studio 2008\Projects\Ma Di Tuan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.AboutForm.resources
+J:\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe.config
+J:\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.exe
+J:\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.pdb
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe.config
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.exe
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.pdb
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.pdb
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Main.resources
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Properties.Resources.resources
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.BangDieuKhien.resources
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.KhoiTao.resources
+C:\Users\DUCLOI\Desktop\Bao Cao CPPLT\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.ThongTin.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe.config
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.exe
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma Di Tuan.pdb
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\bin\Debug\Ma Di Tuan.pdb
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\ResolveAssemblyReference.cache
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.ThongTin.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.BangDieuKhien.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.KhoiTao.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Main.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Properties.Resources.resources
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\09520133_09520162_09520198\Source\Ma Di Tuan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\madituan\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe.config
+D:\madituan\Ma Di Tuan\obj\Debug\Ma Di Tuan.exe
+D:\madituan\Ma Di Tuan\obj\Debug\Ma Di Tuan.pdb
+D:\madituan\Ma Di Tuan\bin\Debug\Ma Di Tuan.exe
+D:\madituan\Ma Di Tuan\bin\Debug\Ma Di Tuan.pdb
+D:\madituan\Ma Di Tuan\obj\Debug\Ma Di Tuan.csprojResolveAssemblyReference.cache
+D:\madituan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.ThongTin.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.BangDieuKhien.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.KhoiTao.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Main.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma_Di_Tuan.Properties.Resources.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma Di Tuan.csproj.GenerateResource.Cache
+D:\madituan\Ma Di Tuan\obj\Debug\gtp.gthieu.resources
+D:\madituan\Ma Di Tuan\obj\Debug\Ma Di Tuan.csproj.CoreCompileInputs.cache
